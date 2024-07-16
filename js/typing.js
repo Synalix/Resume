@@ -50,3 +50,25 @@ function startTypingAnimationWithDelay2() {
 
 // Start the typing animation when the DOM is fully loaded
 document.addEventListener('DOMContentLoaded', startTypingAnimationWithDelay2);
+
+
+
+
+
+function startTypingAnimation3(text, target) {
+  //  var text = "Theodore Kouvelas";
+    var header = document.querySelector(target);
+    var index = 0;
+console.log(text.length);
+    function type() {
+        if (index < text.length) {
+            header.innerHTML += text.charAt(index);
+            index++;
+            setTimeout(type, 100); // Adjust typing speed here (100ms delay)
+        }
+    }
+
+    // Clear the header text and start the typing animation
+    header.innerHTML = '';
+    type();
+}

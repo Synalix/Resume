@@ -11,6 +11,7 @@
     <div class="container">
         <header>
             <h1></h1>
+            <h2></h2>
             <p></p>
         </header>
         <section class="Summary">
@@ -60,19 +61,24 @@
         </div>
     </div>
 
+    <div class="test"> </div>
+
    
-    <div id="overlay" onclick="startBackgroundMusic()"></div>
+   <!---<div id="overlay" onclick="startBackgroundMusic()"></div> -->
 
    
     <audio id="background-music" src="audio/background-music.mp3" loop>
         Your browser does not support the audio element.
     </audio>
 
-    <div>
-    <script src="js/rain.js"></script>
-    <script src="js/title.js"></script>
-    <script src="js/audio.js"></script>
-    <script src="js/typing.js"></script>
-   </div>
+  
 </body>
+
+<script src="js/rain.js"></script>
+<script src="js/title.js"></script>
+<script src="js/audio.js"></script>
+<script src="js/typing.js"></script>
+<script> 
+    document.addEventListener('DOMContentLoaded', startTypingAnimation3("test",'.test'));
+    </script>
 </html>
