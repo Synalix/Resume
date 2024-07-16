@@ -17,9 +17,10 @@
 body {
     font-family: Arial, sans-serif;
     background: linear-gradient(to bottom, #202020, #111119);
+
     color: #f5f5f5;
     line-height: 1.6;
-    overflow: hidden;
+    background-repeat: no-repeat;
 }
 
 .container {
