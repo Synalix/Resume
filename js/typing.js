@@ -34,7 +34,7 @@ function startTypingAnimation2() {
         if (index < text.length) {
             header.innerHTML += text.charAt(index);
             index++;
-            setTimeout(type, 65); // Adjust typing speed here (100ms delay)
+            setTimeout(type, 55); // Adjust typing speed here (100ms delay)
         }
     }
 
