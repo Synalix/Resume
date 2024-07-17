@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>JavaScript Functions</h1>
+<p> Using a function as a variable:</p>
+
+<p id="akata"></p>
+<p class="makata"></p>
+<p id="sukutube"></p>
+
+
+<script>
+
+function startTyping(text, targetDiv, typeInterval) {
+    const header = document.querySelector(targetDiv);
+    var index = 0;
+    type();
+    function type() {
+        if (index < text.length) {
+            header.innerHTML += text.charAt(index);
+            index++;
+            setTimeout(type, typeInterval);
+        }
+    }
+}
+
+</script>
+
+
+
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+    startTyping("XRONIA POLLA!!", "#akata", 50);
+    startTyping("GRHGORH", ".makata", 100);
+    startTyping("TSIFTH", "#sukutube", 150);
+    startTyping(" NA TA EKATOSTHSEIS", "body h1", 200);
+
+});
+</script>
+</body>
+</html>
