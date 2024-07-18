@@ -54,9 +54,9 @@ The website is based in:
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* [![Next][Next.js]][Next-url]
-* [![Html]]
-* [![JavaScript][javascript]][JavaScript-url]
+* ![css]
+* ![Html]
+* ![JavaScript][javascript]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
