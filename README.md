@@ -29,8 +29,6 @@
   <h3 align="center">My resume</h3>
 
   <p align="center">
-  
-    <br />
     <a href="Synalix/github.io/Resume"><strong>Visit the website »</strong></a>
     <br />
   </p>
@@ -69,7 +67,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 <!-- CONTACT -->
 ## Contact
 
-Thdoris Kouvelas - [@Theo_.k](https://discordapp.com/users/882920126565974037) - thodoriskouvelas@gmail.com
+Thodoris Kouvelas - [@Theo_.k](https://discordapp.com/users/882920126565974037) - thodoriskouvelas@gmail.com
 
 Project Link: [https://github.com/Synalix/Resume](https://github.com/your_username/repo_name)
 
