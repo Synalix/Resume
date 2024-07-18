@@ -22,7 +22,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <img src="/icons/resume_9522424.png" alt="Logo" width="80" height="80">
+    <img src="/icons/resume_9522424.png" alt="Logo" width="100" height="100">
   </a>
 
   <h3 align="center">𝖬𝗒 𝖱𝖾𝗌𝗎𝗆𝖾</h3>
