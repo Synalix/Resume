@@ -58,7 +58,7 @@
 
 Thodoris Kouvelas - [Discord profile url](https://discordapp.com/users/882920126565974037) - thodoriskouvelas@gmail.com
 
-Project Link: [https://github.com/Synalix/Resume](https://github.com/your_username/repo_name)
+Project Link: [https://synalix.github.io/Resume/](https://synalix.github.io/Resume/) <br> Project Repo: [https://github.com/Synalix/Resume](https://github.com/Synalix/Resume)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -66,8 +66,6 @@ Project Link: [https://github.com/Synalix/Resume](https://github.com/your_userna
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
-
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
 
 * [GitHub Pages](https://pages.github.com)
 * [Icons](https://pngtree.com/freepng/)
