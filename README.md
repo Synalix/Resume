@@ -22,7 +22,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <img src="/icons/resume.png" alt="Logo" width="80" height="80">
+    <img src="/icons/cv.jpg" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">My resume</h3>
@@ -68,7 +68,9 @@ Project Link: [https://synalix.github.io/Resume/](https://synalix.github.io/Resu
 ## Acknowledgments
 
 * [GitHub Pages](https://pages.github.com)
-* [Icons](https://pngtree.com/freepng/)
+* [Img Shields](https://shields.io)
+* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
+* [Malven's Grid Cheatsheet](https://grid.malven.co/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
