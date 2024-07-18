@@ -55,7 +55,7 @@ The website is based in:
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
 * [![Next][Next.js]][Next-url]
-* [![Html][JQuery.com]][JQuery-url]
+* [![Html]]
 * [![JavaScript][javascript]][JavaScript-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -100,6 +100,8 @@ Use this space to list resources you find helpful and would like to give credit 
 [product-screenshot]: images/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Javascript]: https://img.shields.io/badge/javascript-blue?style=for-the-badge&logo=javascript&logoColor=white
+[html]: https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white
+[css]: https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
