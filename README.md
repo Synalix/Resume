@@ -43,11 +43,12 @@
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
 * ![css]
 * ![Html]
 * ![JavaScript][javascript]
+
+<!-- add text here later -->
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -55,7 +56,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 <!-- CONTACT -->
 ## Contact
 
-Thodoris Kouvelas - [@Theo_.k](https://discordapp.com/users/882920126565974037) - thodoriskouvelas@gmail.com
+Thodoris Kouvelas - [Discord profile url](https://discordapp.com/users/882920126565974037) - thodoriskouvelas@gmail.com
 
 Project Link: [https://github.com/Synalix/Resume](https://github.com/your_username/repo_name)
 
