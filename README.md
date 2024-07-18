@@ -25,7 +25,7 @@
     <img src="/icons/cv.jpg" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">My resume</h3>
+  <h3 align="center">𝖬𝗒 𝖱𝖾𝗌𝗎𝗆𝖾</h3>
 
   <p align="center"> This is a simple resume built in the format of a website.
     <a href="Synalix/github.io/Resume"><strong>Visit the website »</strong></a>
