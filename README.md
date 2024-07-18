@@ -27,7 +27,7 @@
 
   <h3 align="center">My resume</h3>
 
-  <p align="center">
+  <p align="center"> This is a simple resume built in the format of a website.
     <a href="Synalix/github.io/Resume"><strong>Visit the website »</strong></a>
     <br />
   </p>
@@ -38,15 +38,6 @@
 ## About The Project
 
 [![Product Name Screen Shot][product-screenshot]](/icons/website.png)
-
-This is a simple resume built in the format of a website.
-
-The website is based in:
-* html
-* css
-* javascript
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -97,7 +88,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: /icons/website.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Javascript]: https://img.shields.io/badge/javascript-blue?style=for-the-badge&logo=javascript&logoColor=white
 [html]: https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white
