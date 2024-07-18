@@ -22,7 +22,6 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
     <img src="/icons/resume.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -47,8 +46,6 @@ The website is based in:
 * css
 * javascript
 
-Use the `BLANK_README.md` to get started.
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -59,7 +56,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 * [![Next][Next.js]][Next-url]
 * [![Html][JQuery.com]][JQuery-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+* [![JavaScript][javascript.com]][JavaScript-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -118,4 +115,4 @@ Use this space to list resources you find helpful and would like to give credit 
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
-[Javascript-url]: https://www.javascript.com/
+[JavaScript-url]: https://www.javascript.com/
